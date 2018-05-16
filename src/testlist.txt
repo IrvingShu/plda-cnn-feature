@@ -1,0 +1,7 @@
+n009257/0243_01.jpg_feat.bin n009257/0232_01.jpg_feat.bin
+n006263/0145_01.jpg_feat.bin n009257/0232_01.jpg_feat.bin
+n006263/0288_01.jpg_feat.bin n006263/0145_01.jpg_feat.bin
+n006263/0288_01.jpg_feat.bin n006263/0288_01.jpg_feat.bin
+n003752/0185_02.jpg_feat.bin n009257/0232_01.jpg_feat.bin
+n003341/0271_01.jpg_feat.bin n009257/0232_01.jpg_feat.bin
+n003341/0271_01.jpg_feat.bin n003341/0090_01.jpg_feat.bin
